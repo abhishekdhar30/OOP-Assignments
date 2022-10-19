@@ -1,4 +1,6 @@
 //Abhishek 23201
+//Jammu
+//PICT
 import java.util.Scanner;
 import java.math.*;
 public class complex
